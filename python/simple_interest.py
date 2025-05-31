@@ -11,3 +11,5 @@ r = int(input("Enter rate of Interest"))
 SI = p*n*r/100
 
 print ("Interest is:", SI)
+
+print("Thank you")
